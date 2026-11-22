@@ -1,0 +1,9 @@
+# === Python 运行产物 ===
+__pycache__/
+*.pyc
+
+# === ZCode 会话临时文件（skills 要跟踪，plans 不跟踪）===
+.zcode/plans/
+
+# === 编辑器/系统 ===
+.DS_Store
